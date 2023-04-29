@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ses",
+		"ili",
+		" s "
+	],
+	"key": {
+		"s": {
+			"item": "minecraft:stick"
+		},
+		"l": {
+			"item": "minecraft:leather"
+		},
+		"e": {
+			"item": "minecraft:ender_eye"
+		},
+		"i": {
+			"item": "minecraft:iron_ingot"
+		}
+	},
+	"result": {
+		"item": "mob_block_shifters:mob_shifter_empty"
+	}
+}

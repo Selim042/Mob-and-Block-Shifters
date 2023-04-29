@@ -1,0 +1,14 @@
+
+item.mobblockshifters:mob_shifter.name=Mob Shifter
+item.mobblockshifters:block_shifter.name=Block Shifter
+
+misc.mobblockshifters:mob_shifter_empty=Empty.
+misc.mobblockshifters:mob_shifter_contains_known_entity=Contains a %s.
+misc.mobblockshifters:mob_shifter_contains_unknown_entity=Contains an entity.
+misc.mobblockshifters:mob_shifter_click_to_pickup=Left click to pickup.
+misc.mobblockshifters:mob_shifter_click_to_release=Right click to release.
+misc.mobblockshifters:block_shifter_empty=Empty.
+misc.mobblockshifters:block_shifter_contains_known_block=Contains a %s.
+misc.mobblockshifters:block_shifter_contains_unknown_block=Contains a block.
+misc.mobblockshifters:block_shifter_click_to_pickup=Right click to pickup.
+misc.mobblockshifters:block_shifter_click_to_release=Right click to release.
